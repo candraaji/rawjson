@@ -1,4 +1,5 @@
 {
+
 "produk":[
 {"id":1,"nama":"Roan antelope","category":"Goldenrod"},
 {"id":2,"nama":"Dove, rock","category":"Teal"},
@@ -20,5 +21,5 @@
 {"id":18,"nama":"Brolga crane","category":"Crimson"},
 {"id":19,"nama":"Caracara (unidentified)","category":"Aquamarine"},
 {"id":20,"nama":"Dragon, komodo","category":"Crimson"}
-]
+],
 }
