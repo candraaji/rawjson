@@ -1,25 +1,104 @@
 {
 
-"produk":[
-{"id":1,"nama":"Roan antelope","category":"Goldenrod"},
-{"id":2,"nama":"Dove, rock","category":"Teal"},
-{"id":3,"nama":"Snake, eastern indigo","category":"Turquoise"},
-{"id":4,"nama":"Leopard","category":"Blue"},
-{"id":5,"nama":"White-cheeked pintail","category":"Crimson"},
-{"id":6,"nama":"Hen, sage","category":"Turquoise"},
-{"id":7,"nama":"Lechwe, kafue flats","category":"Purple"},
-{"id":8,"nama":"Raccoon, crab-eating","category":"Aquamarine"},
-{"id":9,"nama":"Bleeding heart monkey","category":"Violet"},
-{"id":10,"nama":"Oriental white-backed vulture","category":"Indigo"},
-{"id":11,"nama":"Shelduck, common","category":"Indigo"},
-{"id":12,"nama":"White-browed sparrow weaver","category":"Maroon"},
-{"id":13,"nama":"Deer, roe","category":"Pink"},
-{"id":14,"nama":"Common seal","category":"Red"},
-{"id":15,"nama":"Fox, bat-eared","category":"Indigo"},
-{"id":16,"nama":"Malabar squirrel","category":"Mauv"},
-{"id":17,"nama":"Wolf, common","category":"Maroon"},
-{"id":18,"nama":"Brolga crane","category":"Crimson"},
-{"id":19,"nama":"Caracara (unidentified)","category":"Aquamarine"},
-{"id":20,"nama":"Dragon, komodo","category":"Crimson"}
-],
+	"produk": [{
+			"id": 1,
+			"nama": "Roan antelope",
+			"category": "Goldenrod"
+		},
+		{
+			"id": 2,
+			"nama": "Dove, rock",
+			"category": "Teal"
+		},
+		{
+			"id": 3,
+			"nama": "Snake, eastern indigo",
+			"category": "Turquoise"
+		},
+		{
+			"id": 4,
+			"nama": "Leopard",
+			"category": "Blue"
+		},
+		{
+			"id": 5,
+			"nama": "White-cheeked pintail",
+			"category": "Crimson"
+		},
+		{
+			"id": 6,
+			"nama": "Hen, sage",
+			"category": "Turquoise"
+		},
+		{
+			"id": 7,
+			"nama": "Lechwe, kafue flats",
+			"category": "Purple"
+		},
+		{
+			"id": 8,
+			"nama": "Raccoon, crab-eating",
+			"category": "Aquamarine"
+		},
+		{
+			"id": 9,
+			"nama": "Bleeding heart monkey",
+			"category": "Violet"
+		},
+		{
+			"id": 10,
+			"nama": "Oriental white-backed vulture",
+			"category": "Indigo"
+		},
+		{
+			"id": 11,
+			"nama": "Shelduck, common",
+			"category": "Indigo"
+		},
+		{
+			"id": 12,
+			"nama": "White-browed sparrow weaver",
+			"category": "Maroon"
+		},
+		{
+			"id": 13,
+			"nama": "Deer, roe",
+			"category": "Pink"
+		},
+		{
+			"id": 14,
+			"nama": "Common seal",
+			"category": "Red"
+		},
+		{
+			"id": 15,
+			"nama": "Fox, bat-eared",
+			"category": "Indigo"
+		},
+		{
+			"id": 16,
+			"nama": "Malabar squirrel",
+			"category": "Mauv"
+		},
+		{
+			"id": 17,
+			"nama": "Wolf, common",
+			"category": "Maroon"
+		},
+		{
+			"id": 18,
+			"nama": "Brolga crane",
+			"category": "Crimson"
+		},
+		{
+			"id": 19,
+			"nama": "Caracara (unidentified)",
+			"category": "Aquamarine"
+		},
+		{
+			"id": 20,
+			"nama": "Dragon, komodo",
+			"category": "Crimson"
+		}
+	]
 }
